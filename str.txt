@@ -1,0 +1,16 @@
+ 1166  git commit -m "team2"
+ 1167  git status
+ 1168  git log
+ 1169  git switch d0e6c7f
+ 1170  git log
+ 1171  git log --oneline
+ 1172  git checkout d0e6c7f
+ 1173  git log --oneline
+ 1174  git status
+ 1175  echo "kohli" >> india2
+ 1176  git status
+ 1177  git log --decorate
+ 1178  echo "kohli" >> india2
+ 1179  echo "kohlidf" >> india2
+ 1180  git status
+ 1181  history
